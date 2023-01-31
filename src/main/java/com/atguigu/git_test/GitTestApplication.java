@@ -8,6 +8,7 @@ public class GitTestApplication {
 
     public static void main(String[] args) {
         System.out.println("spring");
+        System.out.println("spring2");
         SpringApplication.run(GitTestApplication.class, args);
     }
 
